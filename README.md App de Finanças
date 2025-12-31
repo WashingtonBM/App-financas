@@ -1,4 +1,4 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de Finanças Pessoais Washington com Vibe Coding
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
@@ -73,13 +73,94 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
+- **prompt final** (PRD) refinado no Copilot.
+App: Finanças Conversacionais
+
+Contexto:
+Usuário conversa com um Agente Financeiro para registrar gastos e receber dicas de economia.
+Tudo deve seguir princípios de Design Universal: acessível, intuitivo e inclusivo.
+
+Fluxo Principal:
+- Usuário abre o app → Tela de Conversa
+- Digita: "Gastei 50 reais no mercado"
+- Agente interpreta, classifica como "Alimentação" e registra.
+- Agente responde: "Ok! Esse gasto foi registrado em Alimentação. Quer definir uma meta para reduzir em 10% este mês?"
+
+Funcionalidades:
+1. Registro de gastos via chat em linguagem natural.
+2. Classificação automática das transações.
+3. Definição e acompanhamento de metas financeiras.
+4. Dicas personalizadas do Agente Financeiro.
+5. Relatórios simples e visuais (gráficos acessíveis).
+
+Telas MVP:
+- Conversa (chat principal)
+- Metas (lista de objetivos e progresso)
+- Relatórios (gráficos simples e acessíveis)
+
+Validação:
+- Testar com usuários iniciantes e diversos perfis.
+- Medir facilidade de uso, clareza dos relatórios e utilidade das dicas.
+
+Interações no Lovable:
+1º Crie um App de finanças pessoais com base no seguinte PRD (Documento de Requisitos de Produto)
+2º Plano aprovado
+3º Sim
+
+Resultado Final no Lovable: 
+
+- Prints ou pequenos vídeos das interações com a IA;
+- <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/4d2ccc25-b787-4cb1-9d27-cca16029fcac" />
+
+- <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/3586245f-0c3f-4db2-8391-ccc6f43303a0" />
+
+- Um resumo do que o seu **App de Finanças Pessoais** faz;
+- # 📱 Funcionalidades do App de Finanças Conversacionais
+
+## 🎯 Principais Funcionalidades
+- **Registro de gastos via chat**  
+  Usuário informa seus gastos em linguagem natural (ex.: *“Gastei 50 reais no mercado”*).
+
+- **Classificação automática de transações**  
+  O sistema identifica e organiza os gastos em categorias como alimentação, transporte, lazer etc.
+
+- **Definição e acompanhamento de metas financeiras**  
+  Usuário pode criar objetivos (ex.: *“Economizar R$500 este mês”*) e acompanhar o progresso.
+
+- **Agente Financeiro Virtual**  
+  Personagem que interage com o usuário, oferecendo dicas de economia e recomendações personalizadas.
+
+- **Relatórios simples e personalizados**  
+  Visualização clara dos gastos e evolução das metas por meio de gráficos e resumos acessíveis.
+
+- **Design Universal**  
+  Interface inclusiva e acessível, garantindo boa experiência para o maior número possível de usuários, independentemente de idade, nível de habilidade digital ou limitações.
+
+---
+
+## 🧪 MVP (Produto Mínimo Viável)
+- **Tela de Conversa**: interação principal com o agente financeiro.  
+- **Tela de Metas**: definição e acompanhamento de objetivos.  
+- **Tela de Relatórios**: gráficos simples mostrando a distribuição dos gastos.  
+
+---
+
+## ✅ Validação Inicial
+- Testes com usuários iniciantes e diversos perfis.  
+- Métricas: facilidade de uso, clareza dos relatórios, utilidade das dicas e acessibilidade da experiência.  
+
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
+  - O que funcionou bem?
+  - O Copilot e Lovable Funcionaram bem.
+  - O que não funcionou como o esperado?
+    O rifanamento do PRD no Copilot ficou muito resumido, solicitei que melhorasse incluindo especifidades.
+    O Lovable não agiu da mesma maneira como agiu na aula do Veniutto, fez algumas perguntas antes de implementar.
+    Na criação do App no Lovable a opção do usuário fazer logim rápido através da conta Google não funcionou,
+    meus créditos acabaram e tive que iniciar um dia após,
   - O que aprendeu sobre conversar com IAs?
+  - Especifidade, quanto mais específico melhor.
+  - As IAs são incríveis;
+  - O Copilot entrega muito e Lovable cria App em poucos minutos.
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
